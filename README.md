@@ -10,8 +10,10 @@ The goal is to:
 ### ML models
 - Linear Regression
 
-### ML models with reference to [CS231n: Convolutional Neural Networks for Visual Recognition](cs231n.stanford.edu)
+### ML models with reference to [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 - KNN 
 - SVM
 - Softmax
 - Two Layer Neural Network
+
+Download CIFAR 10 dataset [Here](https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz)
